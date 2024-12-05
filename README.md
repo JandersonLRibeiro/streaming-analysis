@@ -86,27 +86,27 @@ O sistema foi desenvolvido com o algoritmo TF-IDF (Term Frequency-Inverse Docume
 
 ### **Dashboard Power BI**
 
-1. Abra o arquivo .pbix no Power BI Desktop;
+1️⃣ Abra o arquivo .pbix no Power BI Desktop;
 
-2. Explore as páginas do dashboard e interaja com os filtros disponíveis.
+2️⃣ Explore as páginas do dashboard e interaja com os filtros disponíveis.
 
 ### **Sistema de Recomendação**
 
-1. Clone este repositório:
+1️⃣ Clone este repositório:
 
 ``` 
 git clone https://github.com/seu-usuario/projeto-streaming.git 
 
 ```
 
-2. Instale as dependências necessárias:
+2️⃣ Instale as dependências necessárias:
 
 ``` 
 pip install -r requirements.txt
 
 ```
 
-3. Execute o aplicativo Streamlit:
+3️⃣ Execute o aplicativo Streamlit:
 
 ```
 streamlit run app.py
