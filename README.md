@@ -31,10 +31,10 @@ Este dashboard foi criado com o objetivo de:
 - Jupyter Notebook: Para o tratamento dos dados e preparação do arquivo final;
 - Power BI: Para a construção de visualizações dinâmicas e interativas.
 
-### **Visualizações**
+### **Visualização do Dashboard**
 
 <p align="center">
-  <img src="https://github.com/JandersonLRibeiro/JandersonLRibeiro/blob/main/assets/GIF.gif" alt="Oi, eu sou o Janderson">
+  <img src="https://github.com/JandersonLRibeiro/streaming-analysis/tree/main/assets/PBIDesktop_YVC79hvJpZ.gif" alt="PBI">
 </p>
 
 ## **🤖 Parte 2: Sistema de Recomendação Multiplataforma**
