@@ -45,11 +45,11 @@ Um sistema de recomendação interativo que sugere filmes e séries da Netflix `
 
 ### **Como Funciona?**
 
-1️⃣ O usuário escolhe uma plataforma inicial (por exemplo, Netflix).
+1️⃣ O usuário escolhe uma plataforma inicial (por exemplo, Netflix);
 
-2️⃣ Seleciona um filme ou série que gostou.
+2️⃣ Seleciona um filme ou série que gostou;
 
-3️⃣ O sistema retorna até 5 títulos similares, incluindo informações sobre a plataforma de origem.
+3️⃣ O sistema retorna até 5 títulos similares.
 
 ### **O Algoritmo**
 O sistema foi desenvolvido com o algoritmo TF-IDF (Term Frequency-Inverse Document Frequency), que mede a relevância de palavras no texto. Aqui está um resumo técnico:
