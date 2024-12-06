@@ -95,7 +95,7 @@ O sistema foi desenvolvido com o algoritmo TF-IDF (Term Frequency-Inverse Docume
 1️⃣ Clone este repositório:
 
 ``` 
-git clone https://github.com/seu-usuario/projeto-streaming.git 
+git clone https://github.com/JandersonLRibeiro/streaming-analysis.git
 
 ```
 
@@ -109,7 +109,10 @@ pip install -r requirements.txt
 3️⃣ Execute o aplicativo Streamlit:
 
 ```
-streamlit run app.py
+streamlit run strealit_app_v1.py
 
+```
+```
+streamlit run strealit_app_v2.py
 ```
 
