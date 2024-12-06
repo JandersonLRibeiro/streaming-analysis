@@ -34,7 +34,7 @@ Este dashboard foi criado com o objetivo de:
 ### **Visualização do Dashboard**
 
 <p align="center">
-  <img src="https://github.com/JandersonLRibeiro/streaming-analysis/tree/main/assets/PBIDesktop_YVC79hvJpZ.gif" alt="PBI">
+  <img src="https://github.com/JandersonLRibeiro/streaming-analysis/blob/main/assets/PBIDesktop_YVC79hvJpZ.gif" alt="PBI">
 </p>
 
 ## **🤖 Parte 2: Sistema de Recomendação Multiplataforma**
