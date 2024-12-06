@@ -41,7 +41,7 @@ Este dashboard foi criado com o objetivo de:
 
 ### **O Que é?**
 
-Um sistema de recomendação interativo que sugere filmes e séries de qualquer uma das quatro plataformas de streaming (Netflix, Disney+, Amazon Prime e Hulu). O sistema é baseado em técnicas avançadas de Machine Learning para análise de texto.
+Um sistema de recomendação interativo que sugere filmes e séries da Netflix `Aplicativo 1`  ou de qualquer uma das quatro plataformas de streaming (Netflix, Disney+, Amazon Prime e Hulu) `Aplicativo 2`. O sistema é baseado em técnicas avançadas de Machine Learning para análise de texto.
 
 ### **Como Funciona?**
 
