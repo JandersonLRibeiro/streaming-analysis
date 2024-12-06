@@ -33,9 +33,9 @@ Este dashboard foi criado com o objetivo de:
 
 ### **Visualizações**
 
-*🚀 Espaço reservado para imagens ou GIFs do dashboard.*
-
-(Insira imagens mostrando gráficos como: distribuição de gêneros, avaliações médias por plataforma, etc.)
+<p align="center">
+  <img src="https://github.com/JandersonLRibeiro/JandersonLRibeiro/blob/main/assets/GIF.gif" alt="Oi, eu sou o Janderson">
+</p>
 
 ## **🤖 Parte 2: Sistema de Recomendação Multiplataforma**
 
