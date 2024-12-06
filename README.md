@@ -77,11 +77,7 @@ O sistema foi desenvolvido com o algoritmo TF-IDF (Term Frequency-Inverse Docume
     - `pandas` e `numpy`: para manipulação e análise dos dados;
     - `sklearn`: para criação da matriz TF-IDF e cálculo de similaridade;
     - `Streamlit`: para desenvolvimento de uma interface interativa.
-
-### **Visualização**
-
-🖥️ Espaço reservado para capturas de tela ou GIFs do sistema em funcionamento.
-
+  
 ## **🚀 Como Rodar o Projeto**
 
 ### **Dashboard Power BI**
@@ -99,20 +95,13 @@ git clone https://github.com/JandersonLRibeiro/streaming-analysis.git
 
 ```
 
-2️⃣ Instale as dependências necessárias:
-
-``` 
-pip install -r requirements.txt
+2️⃣ Execute o aplicativo Streamlit:
 
 ```
-
-3️⃣ Execute o aplicativo Streamlit:
-
-```
-streamlit run strealit_app_v1.py
+streamlit run streamlit_app_v1.py
 
 ```
 ```
-streamlit run strealit_app_v2.py
+streamlit run streamlit_app_v2.py
 ```
 
