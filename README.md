@@ -31,7 +31,7 @@ Este dashboard foi criado com o objetivo de:
 - Jupyter Notebook: Para o tratamento dos dados e preparação do arquivo final;
 - Power BI: Para a construção de visualizações dinâmicas e interativas.
 
-### **Visualização do Dashboard**
+### **Visualização**
 
 <p align="center">
   <img src="https://github.com/JandersonLRibeiro/streaming-analysis/blob/main/assets/PBIDesktop_YVC79hvJpZ.gif" alt="PBI">
@@ -78,7 +78,7 @@ O sistema foi desenvolvido com o algoritmo TF-IDF (Term Frequency-Inverse Docume
     - `sklearn`: para criação da matriz TF-IDF e cálculo de similaridade;
     - `Streamlit`: para desenvolvimento de uma interface interativa.
 
-### **Visualizações**
+### **Visualização**
 
 🖥️ Espaço reservado para capturas de tela ou GIFs do sistema em funcionamento.
 
